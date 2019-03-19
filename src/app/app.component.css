@@ -1,0 +1,15 @@
+.container, .main {
+    border: 1px solid #ccc;
+    width: 40%;
+    margin: 10px auto;
+    padding: 50px;
+    font-size: 1.5em;
+    font-weight: bolder;
+    box-shadow: 2px 2px 2px 2px #ccc;
+}
+
+input {
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 14px;
+}
